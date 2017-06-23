@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+Ahoj, udělala jsem nějaké změny, tak vám to oznamuji, protože vás to určitě zajímá, že...
